@@ -1,3 +1,7 @@
 .App {
   text-align: center;
 }
+
+.category-filter {
+  margin: 20px;
+}
